@@ -1,0 +1,14 @@
+.container {
+      display: flex;
+      position: relative;
+      width: 100%;
+      align-content: flex-start;
+      background-color: darkkhaki;
+      background-size: cover;
+      height: 100vh;
+      background-image: url("../assets/img-2.jpg");
+}
+.content-container p {
+      margin-left: 70px;
+      overflow: hidden;
+}
